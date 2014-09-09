@@ -13,16 +13,16 @@ knowledeges, solved issues, and projects with the whole internet community,
 let's introduce my self:
 
 
->I am an 22 years old Italian CS student,
+I am an 22 years old Italian [CS](http://www.informatica.unipg.it/) student,
 more precisely I am undergraduate, attending 
-last year at university of Perugia. 
+last year at [university of Perugia](http://www.unipg.it/). 
 
-I love Linux and OpenSource at all.
+I love **Linux** and **OpenSource** at all.
 My favourite distros are:
 
-* Fedora
-* Crunchbang
-* Ubuntu
+* [Fedora](http://fedoraproject.org/)
+* [Crunchbang](http://crunchbang.org/)
+* [Ubuntu](http://ubuntu.com/)
 
 
 
