@@ -14,8 +14,8 @@ let's introduce my self:
 
 
 I am an 22 years old Italian [CS](http://www.informatica.unipg.it/) student,
-more precisely I am undergraduate, attending 
-last year at [university of Perugia](http://www.unipg.it/). 
+more precisely I am undergraduate, attending the
+last year at [university in Perugia](http://www.unipg.it/). 
 
 I love **Linux** and **OpenSource** at all.
 My favourite distros are:
