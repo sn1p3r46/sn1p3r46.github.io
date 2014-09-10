@@ -35,6 +35,8 @@ Greetings
 {% endhighlight %}
 
 
+![Thi is me! ]({{ site.url }}/assets/AlexanderCropped.jpg)
+
 {% highlight ruby linenos=table %}
 
 
