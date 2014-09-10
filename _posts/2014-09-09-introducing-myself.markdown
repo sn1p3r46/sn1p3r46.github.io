@@ -8,8 +8,8 @@ categories: quisquilia
 Why? 
 ---------	
 
-This little space born from the idea of share my new 
-knowledeges, solved issues, and projects with the whole internet community,
+This little space born from the idea to share my new 
+knowledges, solved issues, and projects with the whole internet community,
 let's introduce my self:
 
 
