@@ -35,11 +35,11 @@ Greetings
 {% endhighlight %}
 
 
-![Thi is me! ]({{ site.url }}/assets/AlexanderCropped.jpg)
-
+ <img src="http://sn1p3r46.github.io/assets/AlexanderCropped.jpg" alt="Smiley face" width=100>
 {% highlight ruby linenos=table %}
 
 
 {% endhighlight %}
+
 
 
