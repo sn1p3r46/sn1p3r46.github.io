@@ -35,7 +35,7 @@ Greetings
 {% endhighlight %}
 
 
- <img src="http://sn1p3r46.github.io/assets/AlexanderCropped.jpg" alt="Smiley face" width="100">
+ <img src="http://sn1p3r46.github.io/assets/AlexanderCropped.jpg" alt="Smiley face" width="150">
 
 {% highlight ruby linenos=table %}
 
